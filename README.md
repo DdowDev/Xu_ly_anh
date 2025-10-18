@@ -1,5 +1,7 @@
 -- Tải python ở python.org
 
+--chuyển sang nhánh final
+
 -- vào cmd tải thư viện :
 pip install opencv-python matplotlib numpy
 
